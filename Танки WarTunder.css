@@ -12,9 +12,6 @@ p {
 		text-indent:5%;
 		color:#00ff48;
 }
-#a2 {
-	font-size:50%;
-}
 h3 {
 	font-size:200%;
 	text-align:center;
@@ -25,4 +22,12 @@ h3 {
 h2 {
 	font-size:350%;
 	text-align:center;
+}
+#a2 {
+  width: 20%;
+  height: 16500px;
+  background-color: white;
+}
+.a1,.a7,a8 {
+display: flex; 
 }
