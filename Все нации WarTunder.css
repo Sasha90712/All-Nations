@@ -5,7 +5,7 @@ h1 {
 		font-size:500%;
 		text-align:center;
 }
-p {
+p,a {
 		font-size:150%;
 		font-weight:bold;
 		text-align:justify;
@@ -31,28 +31,11 @@ width: 25%;
 height: 100%;
 background-color: white;
 }
-#a21,#a23,h3 {
-	font-size:200%;
-}
-#a22 {
-	font-size:100%;
-}
-#a24 {
-	width: 480px;
-	height: 270px;
-}
-.a25,.a26 {
-	display: flex;
-	margin-left:15%;	
-}
-#a27 {
-	margin-left:45%;
-}
 .a1,.a7,.a8 {
 display: flex; 
 }
 #a2 {
   width: 180%;
-  height: 600px;
+  height: 650px;
   background-color: white;
 }
